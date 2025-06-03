@@ -1,0 +1,9 @@
+diffusers==0.33.1
+transformers==4.51.3
+tokenizers==0.21.1
+imageio==2.34.2
+imageio-ffmpeg==0.5.1
+numpy==1.24.4
+opencv-python
+einops
+peft
