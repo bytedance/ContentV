@@ -35,10 +35,13 @@
 </p>
 </div>
 
-This project presents ContentV, a novel framework that accelerates DiT-based video generation through three key innovations:
-- A minimalist model design that enables effective reuse of pre-trained image generation models for video synthesis
-- A comprehensive exploration of a multi-stage, efficient training strategy based on Flow Matching
-- A low-cost Reinforcement Learning with Human Feedback (RLHF) approach that further enhances generation quality without the need for additional human annotations.
+This project presents *ContentV*, an efficient framework for accelerating the training of DiT-based video generation models through three key innovations:
+
+- A minimalist architecture that maximizes reuse of pre-trained image generation models for video synthesis
+- A systematic multi-stage training strategy leveraging flow matching for enhanced efficiency
+- A cost-effective reinforcement learning with human feedback framework that improves generation quality without requiring additional human annotations
+
+Our 8B model achieves state-of-the-art result (85.14 on VBench) in only 4 weeks of training with 256×64GB NPUs.
 
 <div align="center">
     <img src="./assets/demo.jpg" width="100%">
