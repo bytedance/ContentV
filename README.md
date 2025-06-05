@@ -41,7 +41,7 @@ This project presents *ContentV*, an efficient framework for accelerating the tr
 - A systematic multi-stage training strategy leveraging flow matching for enhanced efficiency
 - A cost-effective reinforcement learning with human feedback framework that improves generation quality without requiring additional human annotations
 
-Our 8B model achieves state-of-the-art result (85.14 on VBench) in only 4 weeks of training with 256×64GB NPUs.
+Our open-source 8B model (based on Stable Diffusion 3.5 Large and Wan-VAE) achieves state-of-the-art result (85.14 on VBench) in only 4 weeks of training with 256×64GB NPUs.
 
 <div align="center">
     <img src="./assets/demo.jpg" width="100%">
