@@ -112,6 +112,7 @@ This code repository and part of the model weights are licensed under the [Apach
 @article{contentv2025,
   title     = {ContentV: Efficient Training of Video Generation Models with Limited Compute},
   author    = {Bytedance Douyin Content Team},
-  year      = {2025},
+  journal   = {arXiv preprint arXiv:2506.05343},
+  year      = {2025}
   }
 ```
