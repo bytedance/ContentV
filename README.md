@@ -8,12 +8,12 @@
       alt="Project Page"
     />
   </a>
-  <!-- <a>
+  <a href='https://arxiv.org/abs/2506.05343'>
     <img
       src="https://img.shields.io/badge/Tech Report-ArXiv-red?logo=arxiv&logoColor=red"
       alt="Tech Report"
     />
-  </a> -->
+  </a>
   <a href="https://huggingface.co/ByteDance/ContentV-8B">
     <img 
         src="https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=yellow" 
