@@ -45,7 +45,7 @@ Our open-source 8B model (based on Stable Diffusion 3.5 Large and Wan-VAE) achie
 
 <div align="center">
     <img src="./assets/demo.jpg" width="100%">
-    <img src="./assets/arch.png" width="100%">
+    <img src="./assets/arch.jpg" width="100%">
 </div>
 
 ## ⚡ Quickstart
