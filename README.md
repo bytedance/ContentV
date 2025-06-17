@@ -53,7 +53,6 @@ Our open-source 8B model (based on Stable Diffusion 3.5 Large and Wan-VAE) achie
 #### Recommended PyTorch Version
 
 - GPU: torch >= 2.3.1 (CUDA >= 12.2)
-- NPU: torch and torch-npu >= 2.1.0 (CANN >= 8.0.RC2). Please refer to [Ascend Extension for PyTorch](https://gitee.com/ascend/pytorch) for the installation of torch-npu.
 
 #### Installation
 
@@ -68,8 +67,6 @@ pip3 install -r requirements.txt
 ```bash
 ## For GPU
 python3 demo.py
-## For NPU
-USE_ASCEND_NPU=1 python3 demo.py
 ```
 
 ## 📊 VBench
