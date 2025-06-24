@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://contentv.github.io">
     <img
-      src="https://img.shields.io/badge/Demo-Project Page-0A66C2?logo=googlechrome&logoColor=blue"
+      src="https://img.shields.io/badge/Gallery-Project Page-0A66C2?logo=googlechrome&logoColor=blue"
       alt="Project Page"
     />
   </a>
